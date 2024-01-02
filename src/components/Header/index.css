@@ -1,0 +1,20 @@
+* {
+  background-color: white;
+  color: black;
+}
+
+.nav {
+  display: flex;
+  list-style-type: none;
+  align-items: center;
+  text-decoration: none;
+}
+
+ul li {
+  margin: 0px 10px;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+}
